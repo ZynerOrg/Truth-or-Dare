@@ -1,4 +1,6 @@
 {
+  "name": "Truth or Dare",
+  "short_name": "ToD",
   "background_color": "white",
   "description": "A Truth or Dare web application.",
   "display": "standalone",
@@ -9,6 +11,7 @@
       "type": "image/x-icon"
     }
   ],
-  "name": "Truth or Dare",
-  "short_name": "ToD",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
 }

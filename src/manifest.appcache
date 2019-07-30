@@ -15,7 +15,7 @@ CACHE:
 ../src/js/jquery.min.js
 ../src/js/script.js
 
-#It's best to have file in the same repository
+# It's best to have file in the same repository
 ../src/output.json 
 
 
